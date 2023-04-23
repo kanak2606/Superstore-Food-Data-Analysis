@@ -11,4 +11,4 @@ To use the Tableau file, simply download or clone the repository and open the Ta
 Contributions and feedback are always welcome! Please feel free to reach out if you have any suggestions or if you would like to contribute to this repository.
 
 ## Contact
-If you have any questions or concerns, please feel free to contact me at [email address] or through my GitHub account. Thank you for visiting my Superstore and Food Forecasting Data Analysis with Tableau repository!
+If you have any questions or concerns, please feel free to contact me at Kanak.poddar@gmail.com or through my GitHub account. Thank you for visiting my Superstore and Food Forecasting Data Analysis with Tableau repository!
